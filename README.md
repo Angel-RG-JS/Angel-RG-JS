@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m @Angel-RG-JS</h1>
 <h3 align="center">I’m interested in how the web helps businessess to expand</h3>
-* 👀 I'm currently learning <strong>Linux</strong><br>
+* 👀 I'm currently learning <strong>PHP</strong><br>
 * 📫 How to reach me: angelrangel.2392@gmail.com
 
 ```
