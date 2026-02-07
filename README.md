@@ -16,24 +16,23 @@ const angel = {
 };
 ```
 
-🌟 Featured Project
+### 🌟 Featured Project
+**[FIRE Predictive Engine](https://github.com/Angel-RG-JS/fire-predictive-engine)** *A specialized engine designed for financial forecasting and predictive modeling.*
 
-FIRE Predictive Engine A specialized engine designed for financial forecasting and predictive modeling.
+  * Core: Java-based backend logic.
 
-    Core: Java-based backend logic.
-
-    Focus: Data-driven decision making for financial independence and business growth.
+  * Focus: Data-driven decision making for financial independence and business growth.
 
 🎯 What I'm working on
 
-    🧠 Refining predictive algorithms for financial models.
+  * 🧠 Refining predictive algorithms for financial models.
 
-    🌐 Exploring scalable cloud infrastructure for backend services.
+  * 🌐 Exploring scalable cloud infrastructure for backend services.
 
-    📈 Merging IPN business logic with robust software engineering.
+  * 📈 Merging IPN business logic with robust software engineering.
 
 📫 Connect with me
 
-    📧 Email: angelrangel.2392@gmail.com
+  * 📧 Email: [angelrangel.2392@gmail.com](mailto:angelrangel.2392@gmail.com)
 
-    📍 Based in: Mexico City
+  * 📍 Based in: Mexico City
